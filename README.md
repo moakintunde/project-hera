@@ -1,11 +1,6 @@
-# Project Hera
+# Tindog
+A website made during Angela Yu course: https://www.udemy.com/course/the-complete-web-development-bootcamp/
+Website uses Bootstrap framework and plain html and css.
+### Links
+- Live URL: [Live URL](https://moakintunde.github.io/tindog/)
 
-With the idea idea of wireframing a design I'm trying to replicate my learning into building my idea as I progress, the name Hera birthed from the greek goddess Hera; goddess of family, childbirth  
-I want this to be the birth of my progression.
-## The Process
-Understanding the Boostrap library
-- User can navigate with different devices and the see the page responsivenes
-### Built with
-HTML 
-CSS;Bootstrap
-...
